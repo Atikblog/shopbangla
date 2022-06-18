@@ -130,9 +130,9 @@ li a:hover:not(.active) {
 <font size="3" Face="New Time Roman" Color="red"> 
   <center><br><h1>মালা ফ্যাশন</h1><br></center>
 </font>
-</head> 
 
-  <img src="images.jpg.jpg"width="200" height="200">> 
+
+  <img src="images.jpg.jpg"width="200" height="200">
 
 <br><p1>আমি মোঃহাসান আলী ।মালা ফ্যাশান এর একজন উদ্দোক্তা।সততা ও নিষ্ঠার সাথে আমাদের পথ চলা প্রায় ৫ বছর।আমাদের পন্যসেবা সারা বাংলাদেশ কুরিয়ার সার্ভিসের মাধ্যমে করে থাকি।</p1></br>
 <br>আমাদের যেসব পণ্য রয়েছে তা নিম্নে দেওয়া হল:</br>
@@ -144,3 +144,5 @@ li a:hover:not(.active) {
 <p2>আমাদের online shop দেখতে নিচের link visit করুন: </p2></br>
  <a href= 
 "https://atikblog.github.io/ourshop/"> click here </a>
+  </hed>
+  </html>
